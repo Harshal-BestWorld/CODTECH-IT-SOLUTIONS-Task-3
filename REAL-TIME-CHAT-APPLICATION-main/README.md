@@ -2,13 +2,13 @@
 
 **COMPANY**: CODTECH IT SOLUTIONS
 
-**NAME**: ADITYA GARAD
+**NAME**: Harshal Gosavi
 
-**INTERN ID**: CT08GMS
+
 
 **DOMAIN**: FRONT END
 
-**BATCH DURATION**: December 25th, 2024 to January 25th, 2025
+**BATCH DURATION**: December 20th, 2024 to January 20th, 2025
 
 **MENTOR NAME**: NEELA SANTOSH
 
